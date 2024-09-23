@@ -5,4 +5,4 @@ I joke that I'm a 'full stack' data analyst because I've done it all! Okay, mayb
 - 🌱 I’m currently learning about the beast that is SAP in preparation for converting our Power BI reports over to SAP Analytics Cloud
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Viggo Mortensen bought 3 horses that were used in the LOTR films. One of them was the horse ridden by Arwen's stunt women who couldn't afford to purchase the horse herself.
+- ⚡ Fun fact: Viggo Mortensen bought 3 horses that were used in the LOTR films. One of them was gifted to Arwen's stunt women who couldn't afford the horse herself!
