@@ -1,7 +1,14 @@
 ## Hi there, I'm Tori 👋
-Over the last 4.5 year, I've gotten to dive deep into the world of analytics. I honed in my data visualization skills in Power BI to make some impactful reports still used throughout the company. I moved into a Data Analyst and Systems Architect role recently, where I've enjoyed developing skills on the ETL and data engineering side of things. I love the diversity this experience has brought to my career, and I enjoy being able to take a project start to finish, from ETL to visualization and everything in between.
+My favorite thing about my job is the diversity of projects I get to work on. I also enjoy being able to take a project start to finish, from ETL to visualization and everything in between.
+
+Quick Facts:
+- 🎓 Masters of Management Information Systems (USU 2021) and Bachelors of Science in Business Management (BYU-Idaho 2018)
+- 🏢 4.5 years of data analytics work experience
+- 👩‍💻 Skilled in SQL, Python, Data Visualization, ETL, Database Management, and Data Analysis
+- Current Role: Data Analyst and Systems Architect Manager at EverRest
+- Currently Learning: Created my first AWS DynamoDB table for a side project and am learning how to push and pull data from it! Check out my Disney Wait Times project in my Notion portfolio below.
+
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com
 - 💼 [Notion Portfolio](https://torisnow.notion.site/portfolio)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Viggo Mortensen bought 3 horses that were used in the LOTR films. One of them was gifted to Arwen's stunt women who couldn't afford the horse herself!
