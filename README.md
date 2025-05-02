@@ -6,7 +6,7 @@ Quick Facts:
 - 🏢 4.5 years of data analytics work experience
 - 👩‍💻 Skilled in SQL, Python, Data Visualization, ETL, Database Management, and Data Analysis
 - Current Role: Data Analyst and Systems Architect Manager at EverRest
-- Currently Learning: Created my first AWS DynamoDB table for a side project and am learning how to push and pull data from it! Check out my Disney Wait Times project in my Notion portfolio below.
+- Currently Learning: I just created a AWS DynamoDB table for a side project and am learning how to navigate the AWS console and push and pull data from the table! Check out my Disney Wait Times project in my Notion portfolio below.
 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com
