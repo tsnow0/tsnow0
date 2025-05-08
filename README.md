@@ -11,6 +11,6 @@ Quick Facts:
 - Currently Learning: I just created a AWS DynamoDB table for a side project! I am learning how to navigate the AWS console and push and pull data from the table. Check out my Disney Wait Times project in my Notion portfolio below.
 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com
-💼 [Notion Portfolio](https://torisnow.notion.site/portfolio)
-😄 Pronouns: she/her
+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com
+ 💼 [Notion Portfolio](https://torisnow.notion.site/portfolio)
+ 😄 Pronouns: she/her
