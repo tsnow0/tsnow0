@@ -8,7 +8,8 @@ Quick Facts:
 - Current Role: Data Analyst and Systems Architect Manager at EverRest
 - Currently Learning: I just created a AWS DynamoDB table for a side project! I am learning how to navigate the AWS console and push and pull data from the table. Check out my Disney Wait Times project in my Notion portfolio below.
 
-- Project Example Repo: [Project-Examples](https://github.com/tsnow0/Project-Examples)
+
+- ✔️ Project Example Repo: [Project-Examples](https://github.com/tsnow0/Project-Examples)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com
 - 💼 [Notion Portfolio](https://torisnow.notion.site/portfolio)
 - 😄 Pronouns: she/her
