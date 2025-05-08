@@ -1,6 +1,8 @@
 ## Hi there, I'm Tori 👋
 My favorite thing about my job is the diversity of projects I get to work on. I also enjoy being able to take a project start to finish, from ETL to visualization and everything in between.
 
+✔️ Project Example Repo: [Project-Examples](https://github.com/tsnow0/Project-Examples)
+  
 Quick Facts:
 - 🎓 Masters of Management Information Systems (USU 2021) and Bachelors of Science in Business Management (BYU-Idaho 2018)
 - 🏢 4.5 years of data analytics work experience
@@ -9,8 +11,6 @@ Quick Facts:
 - Currently Learning: I just created a AWS DynamoDB table for a side project! I am learning how to navigate the AWS console and push and pull data from the table. Check out my Disney Wait Times project in my Notion portfolio below.
 
 
-
-- ✔️ Project Example Repo: [Project-Examples](https://github.com/tsnow0/Project-Examples)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com
-- 💼 [Notion Portfolio](https://torisnow.notion.site/portfolio)
-- 😄 Pronouns: she/her
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com
+💼 [Notion Portfolio](https://torisnow.notion.site/portfolio)
+😄 Pronouns: she/her
