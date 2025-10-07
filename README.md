@@ -2,6 +2,8 @@
 My favorite thing about my job is the diversity of projects I get to work on. I also enjoy being able to take a project start to finish, from ETL to visualization and everything in between. You can see a few of those projects in my Project Examples repo here: [Project-Examples](https://github.com/tsnow0/Project-Examples)  
 
 💼 or view my portfolio: [Notion Portfolio](https://torisnow.notion.site/portfolio)   
+
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/torisnow/) or victoriasnow@outlook.com   
 😄 Pronouns: she/her
   
