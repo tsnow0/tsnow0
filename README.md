@@ -9,7 +9,7 @@ My favorite thing about my job is the diversity of projects I get to work on. I 
   
 Quick Facts:
 - 🎓 Masters of Management Information Systems (USU 2021) and Bachelors of Science in Business Management (BYU-Idaho 2018)
-- 🏢 4.5 years of data analytics work experience
+- 🏢 5 years experience as a Data Analyst
 - 👩‍💻 Skilled in SQL, Python, Data Visualization, ETL, Database Management, and Data Analysis
-- Current Role: Data Analyst and Systems Architect Manager at EverRest
+- Current Role: Data Analytics and Systems Architecture Manager at EverRest
 - Currently Learning: I just created a AWS DynamoDB table for a side project! I am learning how to navigate the AWS console and push and pull data from the table. Check out my Disney Wait Times project in my Notion portfolio below.
