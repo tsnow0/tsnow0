@@ -1,5 +1,5 @@
 ## Hi there, I'm Tori 👋
-My favorite thing about my job is the diversity of projects I get to work on. I also enjoy being able to take a project start to finish, from ETL to visualization and everything in between. You can see a few of those projects in my Project Examples repo here: [Portfolio-Examples](https://github.com/tsnow0/Project-Examples)  
+My favorite thing about my job is the diversity of projects I get to work on. I also enjoy being able to take a project start to finish, from ETL to visualization and everything in between. You can see a few of those projects in my Portfolio repo here: [Portfolio-Examples](https://github.com/tsnow0/Project-Examples)  
 
 💼 or view my portfolio: [Notion Portfolio](https://torisnow.notion.site/portfolio)   
 
